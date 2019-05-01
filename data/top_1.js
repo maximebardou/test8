@@ -1,0 +1,1 @@
+var json_top_1 = {"type":"FeatureCollection","name":"top_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nom":"Rochefort"},"geometry":{"type":"Point","coordinates":[3.5,50.6]}}]}
